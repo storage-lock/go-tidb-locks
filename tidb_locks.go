@@ -1,4 +1,4 @@
-package locks
+package tidb_locks
 
 import (
 	"context"
