@@ -1,4 +1,4 @@
-package mysql_locks
+package tidb_locks
 
 import (
 	"context"
